@@ -1,12 +1,12 @@
-### Hi there 👋
-## I'm Oier
+## I'm Oier Gonzalez
 
-- 🔭 I’m currently working on Achieving the best I possibly can in life!
-- 🌱 I’m currently learning Languages ... a lot of languages.
-- 👯 I’m looking to collaborate on Absolutely anything! and if its Math, even better!
-- 🤔 I’m looking for help with Making the world a better place.
-- 📫 How to reach me: Oier Meneses Gonzalez - Linkedin
-- ⚡ Fun fact: The computer is essentially a rock with lightning inside it.
+# Software Engineer, UK
+
+A highly motivated, enthusiastic, confident individual with excellent interpersonal, organisational, and analytical skills. Able to work systematically to strict deadlines as a member of a group or under own initiative.
+
+DevOps fanatic
+Advocate for automation in development
+Inspired by idea and software ownership
 <!--
 **OierGman/OierGman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

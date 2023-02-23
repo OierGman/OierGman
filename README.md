@@ -15,7 +15,7 @@ Inspired by idea and software ownership
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/CompEng0001">
+<a href="https://github.com/OierGman">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OierGman&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OierGman&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>

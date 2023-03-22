@@ -4,9 +4,7 @@
 
 A highly motivated, enthusiastic, confident individual with excellent interpersonal, organisational, and analytical skills. Able to work systematically to strict deadlines as a member of a group or under own initiative.
 
-DevOps fanatic  
-
-Advocate for automation in development  
+DevOps fanatic   
 
 Inspired by idea and software ownership  
 
